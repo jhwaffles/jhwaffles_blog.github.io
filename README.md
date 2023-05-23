@@ -10,19 +10,19 @@ If you really enjoy Long Haul and want to give me credit somewhere on the intern
 
 ## Features
 
--   Minimal, Type Focused Design
--   Built with SASS
--   SVG Social Icons
--   Responsive Nav Menu
--   XML Feed for RSS Readers
--   Contact Form via Formspree
--   5 Post Loop with excerpt on Home Page
--   Previous / Next Post Navigation
--   Estimated Reading Time for posts
--   Stylish Drop Cap on posts
--   A Better Type Scale for all devices
--   Comments powered by Disqus
--   [Dark Mode support](https://github.com/brianmaierjr/long-haul/blob/master/preview-dark.png) via [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
+- Minimal, Type Focused Design
+- Built with SASS
+- SVG Social Icons
+- Responsive Nav Menu
+- XML Feed for RSS Readers
+- Contact Form via Formspree
+- 5 Post Loop with excerpt on Home Page
+- Previous / Next Post Navigation
+- Estimated Reading Time for posts
+- Stylish Drop Cap on posts
+- A Better Type Scale for all devices
+- Comments powered by Disqus
+- [Dark Mode support](https://github.com/brianmaierjr/long-haul/blob/master/preview-dark.png) via [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
 
 ## Setup
 
@@ -37,19 +37,19 @@ If you really enjoy Long Haul and want to give me credit somewhere on the intern
 
 The main settings can be found inside the `_config.yml` file:
 
--   **title:** title of your site
--   **description:** description of your site
--   **url:** your url
--   **paginate:** the amount of posts displayed on homepage
--   **navigation:** these are the links in the main site navigation
--   **social** diverse social media usernames (optional)
--   **google_analytics** Google Analytics key (optional)
+- **title:** title of your site
+- **description:** description of your site
+- **url:** your url
+- **paginate:** the amount of posts displayed on homepage
+- **navigation:** these are the links in the main site navigation
+- **social** diverse social media usernames (optional)
+- **google_analytics** Google Analytics key (optional)
 
 ### Header Option
 
 If you'd like your header to be larger then you can use the option below in you `config.yml` to make it take up half of the vertical space on screens 800px wide and up. _Preview image below._
 
--   **header:** large
+- **header:** large
 
 ![preview Long Haul](/preview-large.png)
 
